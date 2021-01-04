@@ -1,7 +1,7 @@
-url: https:api.nature.global/1/devices  
+url: https://api.nature.global/1/devices  
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-01-04T17:22:16.042Z
+code: 401
+responseTime: 170
+lastUpdated: 2021-01-04T17:35:08.146Z
 startTime: Mon Jan 04 2021 17:22:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
