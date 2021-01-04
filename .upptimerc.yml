@@ -17,6 +17,12 @@ sites:
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
+  - name: Nature Remo API
+    url: https:api.nature.global/1/devices
+    header:
+      - "Authorization: Bearer $NATURE_REMO_TOKEN"
+      - "Content-Type: application/json"
+    icon: https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
