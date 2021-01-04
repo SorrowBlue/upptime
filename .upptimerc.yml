@@ -18,7 +18,7 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
   - name: Nature Remo API
-    url: https:api.nature.global/1/devices
+    url: https://api.nature.global/1/devices
     header:
       - "Authorization: Bearer $NATURE_REMO_TOKEN"
       - "Content-Type: application/json"
