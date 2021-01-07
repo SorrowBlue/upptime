@@ -40,18 +40,19 @@
     "url": "https://api.nature.global/1/devices",
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 302,
     "timeDay": 246,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2021-01-07": 0,
       "2021-01-04": 20
     }
   }
