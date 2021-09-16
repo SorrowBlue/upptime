@@ -22,9 +22,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 245,
     "timeMonth": 231,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "Nature Remo API",
@@ -41,18 +43,18 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "down",
-    "uptime": "91.99%",
+    "uptime": "91.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.11%",
-    "uptimeYear": "91.99%",
+    "uptimeMonth": "33.13%",
+    "uptimeYear": "91.88%",
     "time": 280,
     "timeDay": 70,
     "timeWeek": 204,
     "timeMonth": 224,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2021-09-16": 6,
+      "2021-09-16": 435,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
