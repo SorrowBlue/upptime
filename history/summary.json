@@ -4,7 +4,7 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -41,18 +43,18 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "down",
-    "uptime": "82.57%",
+    "uptime": "82.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.57%",
+    "uptimeYear": "82.49%",
     "time": 273,
     "timeDay": 218,
     "timeWeek": 229,
     "timeMonth": 204,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2021-10-15": 6,
+      "2021-10-15": 421,
       "2021-10-14": 1440,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
