@@ -22,19 +22,19 @@
     "url": "http://minecraft.sorrowblue.com:8123/login.html",
     "icon": "https://favicons.githubusercontent.com/minecraft.sorrowblue.com",
     "slug": "minecraft-server",
-    "status": "up",
-    "uptime": "85.25%",
-    "uptimeDay": "85.25%",
-    "uptimeWeek": "85.25%",
-    "uptimeMonth": "85.25%",
-    "uptimeYear": "85.25%",
+    "status": "down",
+    "uptime": "89.92%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "89.92%",
+    "uptimeMonth": "89.92%",
+    "uptimeYear": "89.92%",
     "time": 370,
     "timeDay": 370,
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-03-08": 91
+      "2022-03-08": 86
     }
   },
   {
@@ -61,7 +61,7 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "up",
-    "uptime": "78.09%",
+    "uptime": "78.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
