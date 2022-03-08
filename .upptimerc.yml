@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Minecraft Server
+    url: http://minecraft.sorrowblue.com:8123/login.html
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Nature Remo API
