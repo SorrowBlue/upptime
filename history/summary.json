@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 78,
-    "timeWeek": 115,
+    "timeDay": 70,
+    "timeWeek": 114,
     "timeMonth": 107,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -20,7 +20,7 @@
   {
     "name": "Minecraft Server",
     "url": "http://minecraft.sorrowblue.com:8123/login.html",
-    "icon": "https://favicons.githubusercontent.com/minecraft.sorrowblue.com",
+    "icon": "https://icons.duckduckgo.com/ip3/minecraft.sorrowblue.com.ico",
     "slug": "minecraft-server",
     "status": "down",
     "uptime": "0.26%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2022-10-01": 21,
+      "2022-10-02": 20,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -247,7 +248,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -256,9 +257,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 277,
-    "timeWeek": 163,
-    "timeMonth": 226,
+    "timeDay": 335,
+    "timeWeek": 194,
+    "timeMonth": 232,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -268,15 +269,15 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "up",
-    "uptime": "85.22%",
+    "uptime": "85.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.01%",
+    "uptimeYear": "84.28%",
     "time": 202,
-    "timeDay": 266,
-    "timeWeek": 258,
-    "timeMonth": 212,
+    "timeDay": 71,
+    "timeWeek": 200,
+    "timeMonth": 213,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2021-11-28": 554,
@@ -335,8 +336,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   }
 ]
