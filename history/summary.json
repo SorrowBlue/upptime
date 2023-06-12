@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 73,
-    "timeWeek": 82,
+    "timeDay": 69,
+    "timeWeek": 81,
     "timeMonth": 98,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 13,
+      "2023-06-12": 13,
+      "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -397,8 +398,7 @@
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
-      "2022-06-13": 1440,
-      "2022-06-12": 1440
+      "2022-06-13": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 207,
-    "timeDay": 184,
-    "timeWeek": 164,
-    "timeMonth": 218,
+    "timeDay": 290,
+    "timeWeek": 184,
+    "timeMonth": 219,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -427,15 +427,15 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "up",
-    "uptime": "89.43%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 169,
-    "timeWeek": 305,
-    "timeMonth": 234,
+    "timeDay": 194,
+    "timeWeek": 263,
+    "timeMonth": 238,
     "timeYear": 229,
     "dailyMinutesDown": {}
   }
