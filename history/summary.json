@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 74,
-    "timeWeek": 101,
-    "timeMonth": 120,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 107,
+    "timeDay": 264,
+    "timeWeek": 145,
+    "timeMonth": 129,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2023-09-08": 1
+    }
   },
   {
     "name": "Minecraft Server",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 10,
+      "2023-09-08": 894,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
