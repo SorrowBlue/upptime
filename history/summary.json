@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.sorrowblue.com.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "2.95%",
+    "uptime": "3.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.25%",
-    "uptimeYear": "5.91%",
+    "uptimeMonth": "73.58%",
+    "uptimeYear": "6.02%",
     "time": 339,
     "timeDay": 301,
     "timeWeek": 311,
@@ -403,9 +403,9 @@
     "url": "https://api.nature.global/1/devices",
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "92.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -414,6 +414,8 @@
     "timeWeek": 271,
     "timeMonth": 238,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-30": 0
+    }
   }
 ]
