@@ -1,7 +1,7 @@
 url: https://api.nature.global/1/devices
-status: down
-code: 502
-responseTime: 1757
-lastUpdated: 2024-07-30T23:36:49.036Z
+status: up
+code: 200
+responseTime: 182
+lastUpdated: 2024-07-30T23:47:45.060Z
 startTime: 2021-01-04T17:22:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
