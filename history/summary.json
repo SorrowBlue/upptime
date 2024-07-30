@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-07-30": 1411,
+      "2024-07-30": 1417,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -353,19 +353,19 @@
     "url": "https://api.nature.global/1/devices",
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "92.81%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 205,
-    "timeWeek": 224,
-    "timeMonth": 454,
-    "timeYear": 268,
+    "time": 260,
+    "timeDay": 324,
+    "timeWeek": 305,
+    "timeMonth": 482,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-07-30": 6,
+      "2024-07-30": 0,
       "2024-04-30": 20
     }
   }
