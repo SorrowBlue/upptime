@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 94,
-    "timeWeek": 99,
+    "timeDay": 93,
+    "timeWeek": 97,
     "timeMonth": 110,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.sorrowblue.com.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "7.88%",
+    "uptime": "7.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-10-31": 15,
+      "2024-11-01": 17,
+      "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -326,8 +327,7 @@
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
-      "2023-11-03": 1440,
-      "2023-11-02": 1440
+      "2023-11-03": 1440
     }
   },
   {
@@ -342,9 +342,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 173,
+    "timeDay": 228,
     "timeWeek": 189,
-    "timeMonth": 227,
+    "timeMonth": 228,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -354,16 +354,16 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "up",
-    "uptime": "93.27%",
+    "uptime": "93.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 277,
-    "timeDay": 175,
-    "timeWeek": 327,
-    "timeMonth": 260,
-    "timeYear": 285,
+    "timeDay": 375,
+    "timeWeek": 368,
+    "timeMonth": 269,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2024-07-31": 118,
       "2024-07-30": 7,
