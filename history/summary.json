@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 91,
-    "timeWeek": 176,
-    "timeMonth": 126,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 327,
+    "timeWeek": 200,
+    "timeMonth": 137,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "Minecraft Server",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 20,
+      "2025-06-29": 1059,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -425,7 +427,7 @@
     "icon": "https://i0.wp.com/en.nature.global/wp-content/uploads/2020/02/cropped-Nature-Logos-13.png",
     "slug": "nature-remo-api",
     "status": "up",
-    "uptime": "94.26%",
+    "uptime": "94.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
