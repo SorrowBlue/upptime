@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 174,
-    "timeWeek": 122,
+    "timeDay": 171,
+    "timeWeek": 114,
     "timeMonth": 125,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2025-09-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft Server",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-01": 1374,
+      "2025-09-02": 17,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -399,8 +398,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -415,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 234,
-    "timeWeek": 202,
-    "timeMonth": 174,
+    "timeDay": 69,
+    "timeWeek": 187,
+    "timeMonth": 173,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -433,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 269,
-    "timeWeek": 286,
-    "timeMonth": 318,
+    "timeDay": 138,
+    "timeWeek": 273,
+    "timeMonth": 306,
     "timeYear": 281,
     "dailyMinutesDown": {}
   }
