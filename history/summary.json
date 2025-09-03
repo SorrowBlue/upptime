@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 83,
-    "timeWeek": 114,
-    "timeMonth": 125,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 111,
+    "timeDay": 425,
+    "timeWeek": 145,
+    "timeMonth": 133,
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   },
   {
     "name": "Minecraft Server",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 16,
+      "2025-09-03": 1385,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -413,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 70,
-    "timeWeek": 187,
-    "timeMonth": 170,
+    "timeDay": 203,
+    "timeWeek": 189,
+    "timeMonth": 171,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -431,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 180,
-    "timeWeek": 257,
-    "timeMonth": 302,
+    "timeDay": 233,
+    "timeWeek": 254,
+    "timeMonth": 300,
     "timeYear": 281,
     "dailyMinutesDown": {}
   }
