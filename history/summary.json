@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 79,
-    "timeWeek": 146,
-    "timeMonth": 110,
+    "timeDay": 107,
+    "timeWeek": 147,
+    "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-11": 15,
+      "2025-10-12": 17,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -397,8 +398,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 847,
-    "timeWeek": 269,
-    "timeMonth": 328,
+    "time": 211,
+    "timeDay": 231,
+    "timeWeek": 261,
+    "timeMonth": 326,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -426,13 +426,13 @@
     "slug": "nature-remo-api",
     "status": "up",
     "uptime": "94.61%",
-    "uptimeDay": "98.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 232,
-    "timeWeek": 313,
+    "timeDay": 381,
+    "timeWeek": 304,
     "timeMonth": 308,
     "timeYear": 292,
     "dailyMinutesDown": {
