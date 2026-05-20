@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 75,
-    "timeWeek": 97,
-    "timeMonth": 98,
+    "timeWeek": 98,
+    "timeMonth": 97,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-04-12": 19
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.sorrowblue.com.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "4.98%",
+    "uptime": "4.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 44,
+      "2026-05-20": 46,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -399,8 +400,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 226,
-    "timeWeek": 169,
-    "timeMonth": 217,
-    "timeYear": 205,
+    "timeDay": 42,
+    "timeWeek": 141,
+    "timeMonth": 216,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 136,
-    "timeWeek": 168,
-    "timeMonth": 216,
+    "timeDay": 258,
+    "timeWeek": 187,
+    "timeMonth": 202,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-10-10": 27
